@@ -1,0 +1,9 @@
+{
+	"n_targets": 88198,
+	"n_bootstraps": 100,
+	"n_processed": 42388005,
+	"kallisto_version": "0.42.5",
+	"index_version": 10,
+	"start_time": "Sat Apr 30 01:38:32 2016",
+	"call": "kallisto quant -i mm10.idx -o ACA2 -b 100 --pseudobam /scratch/PI/casco/Projects/wosczyna_morrissey_CoA/RNAseq/rawData/rawData/06S1-ACAGTG_S1_R1_001.fastq.gz /scratch/PI/casco/Projects/wosczyna_morrissey_CoA/RNAseq/rawData/rawData/06S1-ACAGTG_S1_R2_001.fastq.gz"
+}

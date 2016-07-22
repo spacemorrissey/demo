@@ -1,0 +1,9 @@
+{
+	"n_targets": 88198,
+	"n_bootstraps": 100,
+	"n_processed": 35806956,
+	"kallisto_version": "0.42.5",
+	"index_version": 10,
+	"start_time": "Sun May  1 05:11:09 2016",
+	"call": "kallisto quant -i mm10.idx -o GCC -b 100 --pseudobam /scratch/PI/casco/Projects/wosczyna_morrissey_CoA/RNAseq/rawData/rawData/06S2-GCCAAT_S2_R1_001.fastq.gz /scratch/PI/casco/Projects/wosczyna_morrissey_CoA/RNAseq/rawData/rawData/06S2-GCCAAT_S2_R2_001.fastq.gz"
+}
